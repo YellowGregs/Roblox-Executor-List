@@ -140,6 +140,7 @@ If you're ready to submit your changes:
 - Make sure to use valid URLs for images, websites, & Discord links.
 - Ensure that the JSON syntax is correct, with commas separating the different properties.
 - If an executor does not have a website or Discord link, simply leave those fields as an empty string (`""`).
+- You can change the website design that you want & i'll check if it's good design to make in the website.
 
 ---
 
