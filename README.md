@@ -1,5 +1,5 @@
 # Roblox Executor List
-This was a fun project to do :)
+This was a fun project to do took only 3 days :)
  - This project displays a list of Roblox executors, and you can easily customize or add new executor by modifying the `executors.json` file.
 
 ## How to Add or Modify an Executor
