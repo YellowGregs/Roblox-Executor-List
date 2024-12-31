@@ -1,0 +1,76 @@
+[
+    {
+      "name": "Solara",
+      "logo": "./assets/solara.png",
+      "website": "https://executorone.com",
+      "discord": "https://discord.gg/zhVpk2VENK",
+      "status": "Working",
+      "Detection": "Detected",
+      "pros": ["Free", "User-friendly interface", "Updated frequently"],
+      "neutral": ["Level 3"],
+      "cons": ["None"],
+      "device": ["Windows"],
+      "Developer": [
+        { "name": "AGS", "pfp": "https://avatar-cyan.vercel.app/api/pfp/813157711520071720/image" },
+        { "name": "romani vercetti", "pfp": "https://avatar-cyan.vercel.app/api/pfp/283696402742378496/image" }
+      ],
+      "buylink": "",
+      "Key": false,
+      "Type": "Free"
+    },
+    {
+      "name": "Delta",
+      "logo": "./assets/delta.png",
+      "website": "https://deltaexploits.net",
+      "discord": "https://discord.gg/deltaex",
+      "status": "Working",
+      "Detection": "Undetected",
+      "pros": ["Free", "User-friendly interface", "Updated frequently"],
+      "neutral": ["I don't know what to add."],
+      "cons": ["I don't know what to add."],
+      "device": ["Android","IOS"],
+      "Developer": [
+        { "name": "Lxnny", "pfp": "https://avatar-cyan.vercel.app/api/pfp/1228449270152040470/image" }
+      ],
+      "buylink": "",
+      "Key": true,
+      "Type": "Freemium"
+    },
+    {
+      "name": "Executor Name",
+      "logo": "Path to logo or logo link", 
+      "website": "Executor Website link if it exists",
+      "discord": "Executor Discord link if it exists",
+      "status": "Status ",
+      "Detection": "If its detected",
+      "pros": ["Description of the pros."],
+      "neutral": ["Description of the neutral."],
+      "cons": ["Description of the cons."],
+      "device": ["Android","IOS", "Windows", "Mac"],
+      "Developer": [
+        { "name": "Name of the developer who made the executor", "pfp": "Add the developer pfp if they have one" }
+      ],
+      "buylink": "website link to buy the executor if its paid",
+      "Key": false,
+      "Type": "Free/Paid/Freemium"
+    },
+    {
+      "name": "Executor Name",
+      "logo": "Path to logo or logo link", 
+      "website": "Executor Website link if it exists",
+      "discord": "Executor Discord link if it exists",
+      "status": "Status ",
+      "Detection": "If its detected",
+      "pros": ["Description of the pros."],
+      "neutral": ["Description of the neutral."],
+      "cons": ["Description of the cons."],
+      "device": ["Android","IOS", "Windows", "Mac"],
+      "Developer": [
+        { "name": "Name of the developer who made the executor", "pfp": "Add the developer pfp if they have one" }
+      ],
+      "buylink": "website link to buy the executor if its paid",
+      "Key": false,
+      "Type": "Free/Paid/Freemium"
+    }
+]
+  
